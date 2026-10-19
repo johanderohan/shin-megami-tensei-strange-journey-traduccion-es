@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/nintendo-ds/shin-megami-tensei-strange-journey)**.
+
 Traducción al **español de España** de *Shin Megami Tensei: Strange Journey* (Nintendo DS, Atlus, 2010), que nunca salió en español. Se ha hecho sobre la **edición estadounidense en inglés**; no es una traducción directa del japonés.
 
 El parche es un **XDELTA** que se aplica a tu propia copia del juego: aquí no se distribuye ninguna ROM.
