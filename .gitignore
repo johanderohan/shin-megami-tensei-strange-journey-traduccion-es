@@ -1,0 +1,6 @@
+*.nds
+*.sav
+*.st
+*.xdelta
+trabajo/
+build*/
